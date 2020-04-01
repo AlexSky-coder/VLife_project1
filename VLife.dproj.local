@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,=C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,=D:\Проекти\Делфи\virtlife\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Проекти\Делфи\virtlife\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Проекти\Делфи\virtlife\VLife.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Проекти\Делфи\virtlife\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,=C:\Users\skyli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
